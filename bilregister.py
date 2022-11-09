@@ -81,7 +81,7 @@ def meny():
         for car in sorted_list:
             print(car)
     else:
-        print("du är fan dum i huvudet")
+        print("det där var inte korrekt pysen")
 
 
 meny()
